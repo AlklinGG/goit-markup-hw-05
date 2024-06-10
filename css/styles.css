@@ -384,6 +384,9 @@ padding: 32px 0;
 /*------------------------------------*/
 
 /*---------------FOOTER---------------*/
+.footer-mod {
+    margin-left: 80px;
+}
 .foot-p {
     margin-bottom: 16px;
     font-weight: 500;
