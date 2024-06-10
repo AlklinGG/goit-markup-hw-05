@@ -590,6 +590,10 @@ padding: 32px 0;
 }
 
 .input-user:focus {
+    border-color: #4D5AE5;
+}
+
+.input-user:focus+svg {
     fill: #4D5AE5;
 }
 
