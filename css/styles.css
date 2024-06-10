@@ -655,5 +655,6 @@ padding: 32px 0;
     fill: transparent;
 }
 
-.chck-input:checked+span {
-    background-color: #404bbf; }
+.chck-icon .chck-input:checked {
+    background-color: #404bbf;
+}
