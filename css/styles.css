@@ -632,8 +632,8 @@ padding: 32px 0;
     margin-bottom: 24px;
 }
 
-.chck-input {
-    visibility: hidden;
+.input:checked {
+    background-color: #404bbf;
 }
 
 .chck-label {
